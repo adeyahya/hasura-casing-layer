@@ -1,4 +1,5 @@
 # Hasura Casing Layer
+[![npm version](https://badge.fury.io/js/rnsvg-generator.svg)](https://www.npmjs.com/package/hasura-casing-layer)
 
 schema builder for adding `naming convention` transformation layer in front of hasura
 
